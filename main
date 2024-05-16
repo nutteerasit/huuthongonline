@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Koss PortaPro and Yaxi Accessories</title>
+    <style>
+        /* CSS Styles Here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .product {
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            padding: 20px;
+        }
+        .product img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Koss PortaPro and Yaxi Accessories Store</h1>
+    </header>
+    <div class="container">
+        <div class="product">
+            <h2>Koss PortaPro Headphones</h2>
+            <p>The Koss PortaPro headphones are lightweight, portable, and deliver high-quality sound. Perfect for music enthusiasts on the go.</p>
+            <img src="koss_portapro.jpg" alt="Koss PortaPro">
+            <p>Price: $50.00</p>
+        </div>
+        <div class="product">
+            <h2>Yaxi Earpads for Koss PortaPro</h2>
+            <p>Upgrade your Koss PortaPro headphones with these comfortable and stylish Yaxi earpads. Available in various colors.</p>
+            <img src="yaxi_earpads.jpg" alt="Yaxi Earpads">
+            <p>Price: $15.00</p>
+        </div>
+    </div>
+</body>
+</html>
